@@ -1,11 +1,7 @@
-Repository：一個專案
+Repository：一个项目的文件夹（包含代码、文档、历史记录）
 
-Commit：一次修改的記錄
+Commit：一次本地的版本快照记录（会生成 hash，可回溯）
 
-README：每個看這個專案的人要先看的文檔
+Push：把本地的 commit 上传到 GitHub（云端）
 
-Git 是本地版本管理
 
-GitHub 是把仓库放到网上并协作
-
-commit 会生成 hash 记录
